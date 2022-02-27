@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Snake_AlenVuk_110IT19:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Snake_AlenVuk_110IT19_jar</output-path>
+    <root id="archive" name="Snake_AlenVuk_110IT19.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="Snake_AlenVuk_110IT19" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/java/dev/jna/jna-jpms/5.9.0/jna-jpms-5.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/net/java/dev/jna/jna-platform-jpms/5.9.0/jna-platform-jpms-5.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jline/jline/3.21.0/jline-3.21.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/fusesource/jansi/jansi/1.18/jansi-1.18.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/fusesource/jansi/example/1.18/example-1.18.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
